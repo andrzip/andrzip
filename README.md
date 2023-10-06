@@ -4,7 +4,7 @@
 
 # André Filipe
 
-Olá! 👋 Sou André, um desenvolvedor apaixonado por tecnologia.
+Olá! 👋 Sou André, um desenvolvedor apaixonado por tecnologia.<br>
 Bem-vindo ao meu perfil do GitHub.
 
 ### 🚀 Habilidades
