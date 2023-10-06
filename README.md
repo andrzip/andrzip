@@ -16,5 +16,5 @@ Bem-vindo ao meu perfil do GitHub.
 
 ### 🌱 Como me encontrar
 
-- Instagram: [André Filipe](https://www.instagram.com/andrzip/)
+- Instagram: [@andrzip](https://www.instagram.com/andrzip/)
 - GitHub: [AndrZip](https://github.com/AndrZip/)
