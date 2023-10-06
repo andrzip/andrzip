@@ -2,9 +2,10 @@
   <img src="https://i.pinimg.com/originals/ee/21/b6/ee21b6f99f0effacee7f97699144b5f3.gif" alt="banner"/>
 </p>
 
-# Seu Nome
+# banner
 
-Olá! 👋 Sou André, um desenvolvedor apaixonado por tecnologia. Bem-vindo ao meu perfil do GitHub.
+Olá! 👋 Sou André, um desenvolvedor apaixonado por tecnologia.
+Bem-vindo ao meu perfil do GitHub.
 
 ### 🚀 Habilidades
 
