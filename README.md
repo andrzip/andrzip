@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pa1.aminoapps.com/6642/b387ab3803ffba0ccb5ce1db98a10569908afff7_hq.gif" alt="banner"/>
+  <img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" alt="banner"/>
 </p>
 
 # André Filipe
