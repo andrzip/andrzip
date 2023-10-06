@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ee/21/b6/ee21b6f99f0effacee7f97699144b5f3.gif" alt="banner"/>
+  <img src="https://pa1.aminoapps.com/6642/b387ab3803ffba0ccb5ce1db98a10569908afff7_hq.gif" alt="banner"/>
 </p>
 
-# banner
+# André Filipe
 
 Olá! 👋 Sou André, um desenvolvedor apaixonado por tecnologia.
 Bem-vindo ao meu perfil do GitHub.
