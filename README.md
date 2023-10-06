@@ -14,7 +14,7 @@ Bem-vindo ao meu perfil do GitHub.
 - Banco de Dados: MySQL, MongoDB
 - Outras: Git, HTML/CSS
 
-### 🌱 Como me encontrar
+### 🌱 Me encontre
 
 - Instagram: [@andrzip](https://www.instagram.com/andrzip/)
 - GitHub: [AndrZip](https://github.com/AndrZip/)
