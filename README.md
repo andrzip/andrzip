@@ -16,5 +16,5 @@ Bem-vindo ao meu perfil do GitHub. 😁
 
 ### 🌱 Me encontre
 
-- Instagram: [@andrzip](https://www.instagram.com/andrzip/)
+- Instagram: [@andrelisboaa_](https://www.instagram.com/andrelisboaa_/)
 - GitHub: [AndrZip](https://github.com/AndrZip/)
