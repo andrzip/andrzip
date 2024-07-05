@@ -13,8 +13,3 @@ Bem-vindo ao meu perfil do GitHub. 😁
 - Frameworks: React, Node.js
 - Banco de Dados: MySQL, MongoDB
 - Outras: Git, HTML/CSS
-
-### 🌱 Me encontre
-
-- Instagram: [@andrelisboaa_](https://www.instagram.com/andrelisboaa_/)
-- GitHub: [AndrZip](https://github.com/AndrZip/)
